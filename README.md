@@ -16,3 +16,15 @@ The repository contains the following files:
 - To expand the gaming industry i've decided to find locations out USA and see what kind of companies there are in other countries.
 
 - It's important too the satisfaction's employees and the 30% have at least 1 childes. I've used Google API to find close to the radius schools or kindergarten
+
+### Cleaning process
+
+I've cleaned the database with all requeriments except the total money raised. Before selecting companies by money I was forced to normalize the values of total money raised. 
+
+### Geoqueries and Google API
+
+Using pymongo i've found the companies nearest to others. After that, i've perform some calculations to determine the money by office, the employees by office and a simple ranking by money, employee and the number of offices around.
+
+### Results
+
+After all the process, the best location to this next company is
