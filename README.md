@@ -1,4 +1,4 @@
-# Project "Best place for a gaming company"
+# Project "Best place for a game company"
 
 ### The aim of this project is to find the best location for a company in the gaming industry to grow. 
 The repository contains the following files:
