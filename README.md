@@ -29,6 +29,6 @@ Using pymongo I've found the companies nearest to others. After that, I've perfo
 
 After all the process, the best location to the company is East Hastings Street(Vancouver, Canada). There are two companies with an important total money raise, and a number of employees according to our company. In the radius it is located Hootsuite, one of the most important companies in technology field. I've found too 3 schools close to that street, so it seems to be a good location.
 
-To summarize, I invited you to read this article about the impact of gaming industry on Canada.
+To summarize, I invite you to read this article about the impact of gaming industry on Canada.
 
 https://betakit.com/report-canadas-gaming-industry-contributes-3-7-billion-to-economy/
