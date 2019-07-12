@@ -15,4 +15,4 @@ The repository contains the following files:
 
 - To expand the gaming industry i've decided to find locations out USA and see what kind of companies there are in other countries.
 
-- It's important too the satisfaction's employees and the 30% have children. I've used Google API to find close to the radius schools or kindergarten
+- It's important too the satisfaction's employees and the 30% have at least 1 childes. I've used Google API to find close to the radius schools or kindergarten
