@@ -1,149 +1,149 @@
 ,category_code,founded_year,name,number_of_employees,total_money_raised,geoDescription,latitude,longitude,city,country
-15,tech,2007,Wakoopa,8.0,1000000,"{'type': 'Point', 'coordinates': [4.8948623, 52.3745228]}",52.3745228,4.8948623,Amsterdam,NLD
-31,tech,2007,boo-box,50.0,300,"{'type': 'Point', 'coordinates': [-46.679287, -23.558584]}",-23.558584,-46.679287,Sao Paulo,BRA
-62,finance,2007,Seedcamp,4.0,5000000,"{'type': 'Point', 'coordinates': [-0.1418973, 51.5108803]}",51.5108803,-0.1418973,London,GBR
-195,tech,2007,Flixwagon,10.0,2500000,"{'type': 'Point', 'coordinates': [34.7595, 32.0554]}",32.0554,34.7595,Tel-Aviv,ISR
-229,enterprise,2007,UnLtdWorld,4.0,199,"{'type': 'Point', 'coordinates': [-0.0926903, 51.522413]}",51.522413,-0.0926903,London,GBR
-284,tech,2007,Bragster,10.0,3500000,"{'type': 'Point', 'coordinates': [-0.0766034, 51.5220072]}",51.5220072,-0.0766034,London,GBR
-319,news,2008,fotopedia,17.0,12700000,"{'type': 'Point', 'coordinates': [2.350987, 48.856667]}",48.856667,2.350987,Paris,FRA
-372,tech,2007,ModiFace,35.0,4250000,"{'type': 'Point', 'coordinates': [-79.388279, 43.666953]}",43.666953,-79.388279,Toronto,CAN
-430,tech,2007,Panizon,4.0,50,"{'type': 'Point', 'coordinates': [-106.346771, 56.130366]}",56.130366,-106.346771,,CAN
-485,tech,2007,XIHA,8.0,1000000,"{'type': 'Point', 'coordinates': [24.9410012, 60.1681494]}",60.1681494,24.9410012,Helsinki,FIN
-515,education,2007,babbel,205.0,10000000,"{'type': 'Point', 'coordinates': [13.38861, 52.4897]}",52.4897,13.38861,Berlin,DEU
-539,tech,2007,Zemanta,30.0,7350000,"{'type': 'Point', 'coordinates': [-0.0934254, 51.5141566]}",51.5141566,-0.0934254,London,GBR
-561,tech,2007,eRepublik,30.0,2750000,"{'type': 'Point', 'coordinates': [-3.6952896, 40.43094]}",40.43094,-3.6952896,Madrid,ESP
-565,tech,2007,Omgili,30.0,600,"{'type': 'Point', 'coordinates': [34.7913031, 32.0706393]}",32.0706393,34.7913031,Tel Aviv,ISR
-566,tech,2007,School of Everything,8.0,279,"{'type': 'Point', 'coordinates': [-0.053981, 51.528817]}",51.528817,-0.053981,London,GBR
-645,tech,2007,Strutta,12.0,1600000,"{'type': 'Point', 'coordinates': [-123.1078045, 49.2821075]}",49.2821075,-123.1078045,Vancouver,CAN
-656,tech,2007,Whois,6.0,600,"{'type': 'Point', 'coordinates': [103.875336, 1.327062]}",1.327062,103.875336,Singapore,SGP
-659,tech,2007,Soocial,4.0,267,"{'type': 'Point', 'coordinates': [4.92319, 52.3768747]}",52.3768747,4.92319,Amsterdam,NLD
-750,tech,2008,Jinni,35.0,8100000,"{'type': 'Point', 'coordinates': [34.7595, 32.0554]}",32.0554,34.7595,Tel Aviv,ISR
-757,tech,2007,Memopal,12.0,1000000,"{'type': 'Point', 'coordinates': [12.461425, 41.823172]}",41.823172,12.461425,Rome,ITA
-801,sports,2008,Smarkets,15.0,2710000,"{'type': 'Point', 'coordinates': [-0.130772, 51.550757]}",51.550757,-0.130772,London,GBR
-853,social,2007,Sonico,84.0,6000000,"{'type': 'Point', 'coordinates': [-58.417309, -34.611781]}",-34.611781,-58.417309,Buenos Aires,ARG
-862,tech,2007,GigPark,4.0,200,"{'type': 'Point', 'coordinates': [-79.446717, 43.666678]}",43.666678,-79.446717,Toronto,CAN
-864,enterprise,2008,ScribbleLive,45.0,12000000,"{'type': 'Point', 'coordinates': [-79.406775, 43.64308]}",43.64308,-79.406775,Toronto,CAN
-880,tech,2008,Socruise,5.0,222,"{'type': 'Point', 'coordinates': [0.257568, 51.125693]}",51.125693,0.257568,Kent,GBR
-885,tech,2007,Oxynade,10.0,1100000,"{'type': 'Point', 'coordinates': [3.71105, 51.050314]}",51.050314,3.71105,Ghent,BEL
-926,tech,2008,Orbster,8.0,445,"{'type': 'Point', 'coordinates': [8.4102781, 49.0092558]}",49.0092558,8.4102781,Bangalore,IND
-960,tech,2007,SquareClock,10.0,1250000,"{'type': 'Point', 'coordinates': [2.2860418, 48.9064804]}",48.9064804,2.2860418,Asnieres sur seine,FRA
-969,tech,2007,hiogi,5.0,89,"{'type': 'Point', 'coordinates': [13.397398, 52.529762]}",52.529762,13.397398,Berlin,DEU
-970,tech,2007,ScreenScape Networks,29.0,4000000,"{'type': 'Point', 'coordinates': [-63.127845, 46.234315]}",46.234315,-63.127845,Charlottetown,CAN
-998,tech,2007,Dreamsoft Technologies,6.0,100,"{'type': 'Point', 'coordinates': [-2.15871, 53.616352]}",53.616352,-2.15871,,GBR
-1016,tech,2007,Bambuser,12.0,2500000,"{'type': 'Point', 'coordinates': [18.064488, 59.332788]}",59.332788,18.064488,Stockholm,SWE
-1023,tech,2007,GeoMe,6.0,267,"{'type': 'Point', 'coordinates': [2.168518, 41.387411]}",41.387411,2.168518,Barcelona,ESP
-1040,tech,2007,Lat49,24.0,3800000,"{'type': 'Point', 'coordinates': [-123.120893, 49.275332]}",49.275332,-123.120893,"Vancouver, BC",CAN
-1072,tech,2007,Aloqa,14.0,1500000,"{'type': 'Point', 'coordinates': [11.5677288, 48.1281209]}",48.1281209,11.5677288,Munich,DEU
-1105,education,2007,Myngle,17.0,2100000,"{'type': 'Point', 'coordinates': [4.912106, 52.354525]}",52.354525,4.912106,Amsterdam,NLD
-1125,tech,2008,plista,100.0,3800000,"{'type': 'Point', 'coordinates': [13.4124563, 52.5283614]}",52.5283614,13.4124563,Berlin,DEU
-1141,tech,2008,TweetDeck,5.0,3800000,"{'type': 'Point', 'coordinates': [-0.1262362, 51.5001524]}",51.5001524,-0.1262362,London,GBR
-1151,public_relations,2007,HomeSpace,7.0,40,"{'type': 'Point', 'coordinates': [103.779503, 1.292513]}",1.292513,103.779503,Singapore,SGP
-1187,tech,2008,Wahanda,50.0,7000000,"{'type': 'Point', 'coordinates': [1.996567, 41.792265]}",41.792265,1.996567,London,GBR
-1204,tech,2007,AdScale,40.0,6150000,"{'type': 'Point', 'coordinates': [11.5893956, 48.1654212]}",48.1654212,11.5893956,Munich,DEU
-1207,tech,2007,Videoplaza,70.0,15900000,"{'type': 'Point', 'coordinates': [-0.1020894, 51.5212481]}",51.5212481,-0.1020894,London,GBR
-1208,tech,2007,Snagsta,4.0,83,"{'type': 'Point', 'coordinates': [-0.1400366, 51.4761694]}",51.4761694,-0.1400366,London,GBR
-1281,tech,2008,IBTgames,11.0,25,"{'type': 'Point', 'coordinates': [90.401432, 23.797333]}",23.797333,90.401432,Dhaka,BGD
-1335,tech,2009,Prezi,110.0,14300000,"{'type': 'Point', 'coordinates': [19.059078, 47.490346]}",47.490346,19.059078,Budapest,HUN
-1338,tech,2007,LOG607,6.0,600,"{'type': 'Point', 'coordinates': [12.436354, 45.564209]}",45.564209,12.436354,Roncade TV,ITA
-1363,enterprise,2008,tagga,14.0,448,"{'type': 'Point', 'coordinates': [-123.095249, 49.284889]}",49.284889,-123.095249,Vancouver,CAN
-1375,tech,2009,CompareAway,5.0,399,"{'type': 'Point', 'coordinates': [-1.574948, 54.703145]}",54.703145,-1.574948,Durham,GBR
-1393,travel,2009,GetYourGuide,75.0,16000000,"{'type': 'Point', 'coordinates': [8.5082891, 47.3912899]}",47.3912899,8.5082891,Zurich,CHE
-1468,travel,2011,travelmob,4.0,1000000,"{'type': 'Point', 'coordinates': [-157.78907, 21.303049]}",21.303049,-157.78907,Singapore,SGP
-1546,tech,2009,Burt,30.0,3500000,"{'type': 'Point', 'coordinates': [18.036587, 59.337864]}",59.337864,18.036587,Gothenburg,SWE
-1574,tech,2008,Tweegee,22.0,3000000,"{'type': 'Point', 'coordinates': [34.8003705, 32.037363]}",32.037363,34.8003705,Ramat Gan,ISR
-1593,enterprise,2007,Cignis,3.0,20,"{'type': 'Point', 'coordinates': [10.47651, 59.852826]}",59.852826,10.47651,Hvalstad,NOR
-1612,enterprise,2007,3scale,15.0,5000000,"{'type': 'Point', 'coordinates': [2.192023, 41.406335]}",41.406335,2.192023,Barcelona,ESP
-1722,travel,2011,travelmob,4.0,1000000,"{'type': 'Point', 'coordinates': [-157.78907, 21.303049]}",21.303049,-157.78907,Singapore,SGP
-1799,tech,2009,Burt,30.0,3500000,"{'type': 'Point', 'coordinates': [18.036587, 59.337864]}",59.337864,18.036587,Gothenburg,SWE
-1828,tech,2008,Tweegee,22.0,3000000,"{'type': 'Point', 'coordinates': [34.8003705, 32.037363]}",32.037363,34.8003705,Ramat Gan,ISR
-1846,enterprise,2007,Cignis,3.0,20,"{'type': 'Point', 'coordinates': [10.47651, 59.852826]}",59.852826,10.47651,Hvalstad,NOR
-1867,enterprise,2007,3scale,15.0,5000000,"{'type': 'Point', 'coordinates': [2.192023, 41.406335]}",41.406335,2.192023,Barcelona,ESP
-2046,music,2007,Radionomy,12.0,6000000,"{'type': 'Point', 'coordinates': [4.33511, 50.831147]}",50.831147,4.33511,Brussels,BEL
-2065,tech,2008,iKlax Media,7.0,445,"{'type': 'Point', 'coordinates': [-1.5555799, 43.4477272]}",43.4477272,-1.5555799,BIDART,FRA
-2124,social,2008,ResearchGate,74.0,35000000,"{'type': 'Point', 'coordinates': [13.3842605, 52.5308516]}",52.5308516,13.3842605,Berlin,DEU
-2148,tech,2008,Wishabi,50.0,16000000,"{'type': 'Point', 'coordinates': [-79.567221, 43.644678]}",43.644678,-79.567221,Toronto,CAN
-2184,social,2007,SocialGO,12.0,3000000,"{'type': 'Point', 'coordinates': [-0.0925694, 51.5027669]}",51.5027669,-0.0925694,London,GBR
-2201,real_estate,2007,Zoopla,50.0,10200000,"{'type': 'Point', 'coordinates': [-0.1010801, 51.5037471]}",51.5037471,-0.1010801,London,GBR
-2294,tech,2007,Trustpilot,100.0,18400000,"{'type': 'Point', 'coordinates': [12.5605372, 55.6739617]}",55.6739617,12.5605372,Copenhagen V,DNK
-2347,tech,2008,Movirtu,50.0,5500000,"{'type': 'Point', 'coordinates': [-0.1815999, 51.5499708]}",51.5499708,-0.1815999,London,GBR
-2372,public_relations,2007,SmartCrowds,3.0,110,"{'type': 'Point', 'coordinates': [78.2221144, 12.5153051]}",12.5153051,78.2221144,Bangalore,IND
-2375,tech,2007,VODECLIC,20.0,570,"{'type': 'Point', 'coordinates': [2.319287, 48.891986]}",48.891986,2.319287,Levallois-Perret,FRA
-2384,enterprise,2007,DreamFace Interactive,10.0,150,"{'type': 'Point', 'coordinates': [2.1907388, 48.7004097]}",48.7004097,2.1907388,Orsay,FRA
-2388,social,2009,HyperWeek,5.0,1310000,"{'type': 'Point', 'coordinates': [6.1503245, 46.2121463]}",46.2121463,6.1503245,Geneva,CHE
-2392,tech,2007,ALENTY,17.0,356,"{'type': 'Point', 'coordinates': [2.369933, 48.8696389]}",48.8696389,2.369933,Paris,FRA
-2455,tech,2007,ShedWorx,5.0,100,"{'type': 'Point', 'coordinates': [115.813457, -31.97302]}",-31.97302,115.813457,"Nedlands, WA",AUS
-2463,tech,2007,VIDDIX,5.0,89,"{'type': 'Point', 'coordinates': [5.1682449, 52.0848526]}",52.0848526,5.1682449,Utrecht,NLD
-2469,enterprise,2008,MessageBunker,7.0,79,"{'type': 'Point', 'coordinates': [-0.660258, 51.793944]}",51.793944,-0.660258,Hertfordshire,GBR
-2470,tech,2007,Adjug,47.0,6500000,"{'type': 'Point', 'coordinates': [-0.1506897, 51.5441671]}",51.5441671,-0.1506897,London,GBR
-2533,tech,2007,PrestaShop,80.0,3900000,"{'type': 'Point', 'coordinates': [2.3593849, 48.8687217]}",48.8687217,2.3593849,Levallois-Perret,FRA
-2560,tech,2010,Tengaged,1.0,15,"{'type': 'Point', 'coordinates': [2.1634249, 41.4241228]}",41.4241228,2.1634249,Barcelona,ESP
-2613,tech,2007,EcoVadis,50.0,1400000,"{'type': 'Point', 'coordinates': [2.3216223, 48.8545738]}",48.8545738,2.3216223,PARIS,FRA
-2622,tech,2007,PushCall,4.0,150,"{'type': 'Point', 'coordinates': [4.3550666, 52.027964]}",52.027964,4.3550666,Rijswijk,NLD
-2623,social,2008,Busuu,25.0,4700000,"{'type': 'Point', 'coordinates': [-3.6830316, 40.4225487]}",40.4225487,-3.6830316,Madrid,ESP
-2625,tech,2007,Green Apple Media,50.0,132000000,"{'type': 'Point', 'coordinates': [-6.2689465, 53.3438298]}",53.3438298,-6.2689465,Dublin,IRL
-2640,tech,2007,mydeco,35.0,12500000,"{'type': 'Point', 'coordinates': [-0.468617, 51.518101]}",51.518101,-0.468617,London,GBR
-2642,tech,2007,Sysomos,50.0,250,"{'type': 'Point', 'coordinates': [-79.3979364, 43.65508]}",43.65508,-79.3979364,Toronto,CAN
-2771,tech,2007,CreationFlow,4.0,150,"{'type': 'Point', 'coordinates': [-58.4339539, -34.6028583]}",-34.6028583,-58.4339539,Ciudad de Buenos Aires,ARG
-2774,enterprise,2007,Quick TV,6.0,2890000,"{'type': 'Point', 'coordinates': [-1.6194034, 54.971065]}",54.971065,-1.6194034,Newcastle Upon Tyne,GBR
-2847,fashion,2008,Geelbe,13.0,4700000,"{'type': 'Point', 'coordinates': [-74.0758333, 4.5980556]}",4.5980556,-74.0758333,Bogotá,COL
-2883,tech,2008,Zopim,40.0,392,"{'type': 'Point', 'coordinates': [103.7807403, 1.290801]}",1.290801,103.7807403,Singapore,SGP
-2976,tech,2009,Shutl,10.0,7660000,"{'type': 'Point', 'coordinates': [-0.1020265, 51.5196135]}",51.5196135,-0.1020265,London,GBR
-3001,real_estate,2007,CommonFloor,12.0,7500000,"{'type': 'Point', 'coordinates': [77.6378619, 12.9593805]}",12.9593805,77.6378619,"Bangalore, Karnataka",IND
-3021,travel,2007,Must See India,3.0,5000000,"{'type': 'Point', 'coordinates': [77.600339, 12.9084701]}",12.9084701,77.600339,Bangalore,IND
-3045,tech,2007,Fortumo,45.0,10000000,"{'type': 'Point', 'coordinates': [26.7212208, 58.3754107]}",58.3754107,26.7212208,Tartu,EST
-3068,tech,2007,Mashup Arts,6.0,1580000,"{'type': 'Point', 'coordinates': [-79.3777473, 43.648786]}",43.648786,-79.3777473,Halifax,CAN
-3084,tech,2008,studdex,10.0,160,"{'type': 'Point', 'coordinates': [7.3554365, 51.4523335]}",51.4523335,7.3554365,Berlin,DEU
-3093,finance,2008,Comunitae,6.0,3500000,"{'type': 'Point', 'coordinates': [-3.7033403, 40.4905109]}",40.4905109,-3.7033403,Madrid,ESP
-3138,tech,2007,ScoreGrid,10.0,700,"{'type': 'Point', 'coordinates': [28.0354352, -26.1470966]}",-26.1470966,28.0354352,Johannesburg,ZAF
-3142,tech,2008,Dodreams,6.0,668,"{'type': 'Point', 'coordinates': [24.9438568, 60.1659819]}",60.1659819,24.9438568,,FIN
-3143,public_relations,2007,Anygma,20.0,1600000,"{'type': 'Point', 'coordinates': [4.3904302, 51.2057495]}",51.2057495,4.3904302,Antwerpen,BEL
-3161,social,2008,Mendeley,27.0,2130000,"{'type': 'Point', 'coordinates': [-0.1046546, 51.5224267]}",51.5224267,-0.1046546,London,GBR
-3170,tech,2008,SocialCom,5.0,181,"{'type': 'Point', 'coordinates': [13.3740493, 52.5375697]}",52.5375697,13.3740493,Munich,DEU
-3226,tech,2009,Cognitive Match,40.0,10200000,"{'type': 'Point', 'coordinates': [-0.0936688, 51.5119418]}",51.5119418,-0.0936688,London,GBR
-3240,enterprise,2008,TheOfficialBoard,12.0,150,"{'type': 'Point', 'coordinates': [2.215097, 48.84176]}",48.84176,2.215097,Saint-Cloud,FRA
-3244,tech,2008,IGLOO Software,50.0,9000000,"{'type': 'Point', 'coordinates': [-80.487328, 43.4496954]}",43.4496954,-80.487328,Kitchener,CAN
-3257,tech,2007,iPharro Media,17.0,5180000,"{'type': 'Point', 'coordinates': [8.6605881, 49.8740096]}",49.8740096,8.6605881,Darmstadt,DEU
-3280,tech,2007,GoHome,19.0,757,"{'type': 'Point', 'coordinates': [15.8012365, 45.816128]}",45.816128,15.8012365,Zagreb,HRV
-3287,other,2009,Internet Marketing Academy Australia,8.0,100,"{'type': 'Point', 'coordinates': [144.976425, -37.839941]}",-37.839941,144.976425,Melbourne,AUS
-3341,tech,2008,userADgents,15.0,500,"{'type': 'Point', 'coordinates': [2.334266, 48.8775197]}",48.8775197,2.334266,Paris,FRA
-3348,tech,2008,ividence,30.0,9700000,"{'type': 'Point', 'coordinates': [2.3347594, 48.8682244]}",48.8682244,2.3347594,Paris,FRA
-3351,tech,2008,tolingo,40.0,600,"{'type': 'Point', 'coordinates': [9.9255806, 53.5617341]}",53.5617341,9.9255806,Hamburg,DEU
-3360,tech,2008,Arimaz,5.0,400,"{'type': 'Point', 'coordinates': [6.5877024, 46.5389248]}",46.5389248,6.5877024,Renens,CHE
-3381,tech,2009,Gate 53|10 Technologies,4.0,125,"{'type': 'Point', 'coordinates': [10.0184565, 53.5736401]}",53.5736401,10.0184565,Hamburg,DEU
-3404,music,2008,Musicmetric,15.0,3400000,"{'type': 'Point', 'coordinates': [-0.0856982, 51.5253765]}",51.5253765,-0.0856982,London,GBR
-3410,tech,2007,HealthEngine,12.0,10400000,"{'type': 'Point', 'coordinates': [115.89084, -31.97822]}",-31.97822,115.89084,Perth,AUS
-3450,social,2008,HootSuite,370.0,190000000,"{'type': 'Point', 'coordinates': [-123.0952381, 49.2851733]}",49.2851733,-123.0952381,Vancouver,CAN
-3456,tech,2009,Brandsclub,140.0,17000000,"{'type': 'Point', 'coordinates': [-46.6388182, -23.5489433]}",-23.5489433,-46.6388182,Sao Paulo,BRA
-3468,tech,2008,Imagga,6.0,310,"{'type': 'Point', 'coordinates': [23.316708, 42.6866911]}",42.6866911,23.316708,Sofia,BGR
-3470,tech,2008,Joobili,2.0,80,"{'type': 'Point', 'coordinates': [19.0284923, 47.4953663]}",47.4953663,19.0284923,Budapest,HUN
-3496,tech,2008,WEEZEVENT,20.0,1100000,"{'type': 'Point', 'coordinates': [2.4476331, 48.8952712]}",48.8952712,2.4476331,Paris,FRA
-3508,tech,2007,Teachable,5.0,63,"{'type': 'Point', 'coordinates': [-1.0912028, 51.2057651]}",51.2057651,-1.0912028,Basingstoke,GBR
-3525,tech,2008,Fresh !,9.0,100,"{'type': 'Point', 'coordinates': [2.2430452, 48.8424529]}",48.8424529,2.2430452,Boulogne,FRA
-3586,tech,2009,1calendar,8.0,40,"{'type': 'Point', 'coordinates': [12.5751278, 55.6770321]}",55.6770321,12.5751278,Copenhagen,DNK
-3724,tech,2009,DP7 Digital,6.0,100,"{'type': 'Point', 'coordinates': [-46.6773686, -23.5815208]}",-23.5815208,-46.6773686,Sao Paulo,BRA
-3797,news,2007,Rue89,20.0,1840000,"{'type': 'Point', 'coordinates': [2.3935987, 48.8711089]}",48.8711089,2.3935987,,FRA
-3818,tech,2007,iContainers,15.0,133,"{'type': 'Point', 'coordinates': [2.1752709, 41.3763043]}",41.3763043,2.1752709,Barcelona,ESP
-3849,travel,2007,Hopper,17.0,22000000,"{'type': 'Point', 'coordinates': [-73.5550157, 45.5124334]}",45.5124334,-73.5550157,Montreal,CAN
-3861,tech,2007,VISup,8.0,31,"{'type': 'Point', 'coordinates': [9.2114266, 45.4650967]}",45.4650967,9.2114266,MILANO,ITA
-3871,tech,2008,YOOSE,8.0,22,"{'type': 'Point', 'coordinates': [13.3892132, 52.5145532]}",52.5145532,13.3892132,Berlin,DEU
-3874,tech,2008,Kwaga,10.0,2150000,"{'type': 'Point', 'coordinates': [2.3389864, 48.8318497]}",48.8318497,2.3389864,Paris,FRA
-3894,fashion,2010,Chicisimo,4.0,800,"{'type': 'Point', 'coordinates': [-2.9308322, 43.264499]}",43.264499,-2.9308322,Bilbao,ESP
-3997,tech,2009,ipadio,15.0,1600000,"{'type': 'Point', 'coordinates': [0.0118608, 51.8205815]}",51.8205815,0.0118608,London,GBR
-4007,tech,2007,ExtraFootie,8.0,267,"{'type': 'Point', 'coordinates': [4.348295, 50.8263475]}",50.8263475,4.348295,Brussels,BEL
-4008,tech,2009,Ykone,10.0,1500000,"{'type': 'Point', 'coordinates': [2.3509871, 48.8566667]}",48.8566667,2.3509871,Paris,FRA
-4016,tech,2007,Moviepilot,43.0,7000000,"{'type': 'Point', 'coordinates': [13.398504, 52.4947266]}",52.4947266,13.398504,Berlin,DEU
-4038,tech,2008,BetKlub,3.0,81,"{'type': 'Point', 'coordinates': [2.3639174, 48.8787606]}",48.8787606,2.3639174,Paris,FRA
-4045,tech,2008,Kimengi,5.0,222,"{'type': 'Point', 'coordinates': [4.8852747, 52.3735592]}",52.3735592,4.8852747,Amsterdam,NLD
-4055,enterprise,2008,oneDrum,5.0,1000000,"{'type': 'Point', 'coordinates': [-0.1262362, 51.5001524]}",51.5001524,-0.1262362,London,GBR
-4068,tech,2009,Layar,32.0,13400000,"{'type': 'Point', 'coordinates': [4.8928722, 52.3657578]}",52.3657578,4.8928722,Amsterdam,NLD
-4083,tech,2007,Tagmore Solutions,15.0,222,"{'type': 'Point', 'coordinates': [-3.6883074, 40.4226918]}",40.4226918,-3.6883074,Madrid,ESP
-4097,tech,2009,Lipperhey,6.0,178,"{'type': 'Point', 'coordinates': [4.9345824, 52.3655578]}",52.3655578,4.9345824,Amsterdam,NLD
-4128,tech,2008,Mobiles Republic,25.0,9000000,"{'type': 'Point', 'coordinates': [-0.5754294, 44.8743952]}",44.8743952,-0.5754294,Bordeaux Cedex,FRA
-4129,tech,2008,ubigrate,12.0,445,"{'type': 'Point', 'coordinates': [13.7759644, 51.0343624]}",51.0343624,13.7759644,Dresden,DEU
-4153,tech,2008,Struq,50.0,8500000,"{'type': 'Point', 'coordinates': [-0.1366861, 51.5152023]}",51.5152023,-0.1366861,London,GBR
-4163,enterprise,2007,Content Syndicate: Words on Demand,15.0,1500000,"{'type': 'Point', 'coordinates': [55.2373803, 25.1910055]}",25.1910055,55.2373803,Dubai,ARE
-4175,tech,2009,Teambox,35.0,6750000,"{'type': 'Point', 'coordinates': [2.1920231, 41.4063346]}",41.4063346,2.1920231,Barcelona,ESP
-4184,tech,2008,Testplant,50.0,2560000,"{'type': 'Point', 'coordinates': [-0.1037742, 51.517356]}",51.517356,-0.1037742,London,GBR
-4221,social,2008,FundRazr,6.0,426,"{'type': 'Point', 'coordinates': [-123.1092622, 49.2843936]}",49.2843936,-123.1092622,Vancouver,CAN
-4245,tech,2009,Tiny Speck,45.0,17200000,"{'type': 'Point', 'coordinates': [-123.109217, 49.2824551]}",49.2824551,-123.109217,Vancouver,CAN
-4258,tech,2009,Getyoo,10.0,1130000,"{'type': 'Point', 'coordinates': [4.3464721, 50.83997]}",50.83997,4.3464721,Brussels,BEL
+0,tech,2007,Wakoopa,8.0,1000000,"{'type': 'Point', 'coordinates': [4.8948623, 52.3745228]}",52.3745228,4.8948623,Amsterdam,NLD
+1,tech,2007,boo-box,50.0,300,"{'type': 'Point', 'coordinates': [-46.679287, -23.558584]}",-23.558584,-46.679287,Sao Paulo,BRA
+2,finance,2007,Seedcamp,4.0,5000000,"{'type': 'Point', 'coordinates': [-0.1418973, 51.5108803]}",51.5108803,-0.1418973,London,GBR
+3,tech,2007,Flixwagon,10.0,2500000,"{'type': 'Point', 'coordinates': [34.7595, 32.0554]}",32.0554,34.7595,Tel-Aviv,ISR
+4,enterprise,2007,UnLtdWorld,4.0,199,"{'type': 'Point', 'coordinates': [-0.0926903, 51.522413]}",51.522413,-0.0926903,London,GBR
+5,tech,2007,Bragster,10.0,3500000,"{'type': 'Point', 'coordinates': [-0.0766034, 51.5220072]}",51.5220072,-0.0766034,London,GBR
+6,news,2008,fotopedia,17.0,12700000,"{'type': 'Point', 'coordinates': [2.350987, 48.856667]}",48.856667,2.350987,Paris,FRA
+7,tech,2007,ModiFace,35.0,4250000,"{'type': 'Point', 'coordinates': [-79.388279, 43.666953]}",43.666953,-79.388279,Toronto,CAN
+8,tech,2007,Panizon,4.0,50,"{'type': 'Point', 'coordinates': [-106.346771, 56.130366]}",56.130366,-106.346771,,CAN
+9,tech,2007,XIHA,8.0,1000000,"{'type': 'Point', 'coordinates': [24.9410012, 60.1681494]}",60.1681494,24.9410012,Helsinki,FIN
+10,education,2007,babbel,205.0,10000000,"{'type': 'Point', 'coordinates': [13.38861, 52.4897]}",52.4897,13.38861,Berlin,DEU
+11,tech,2007,Zemanta,30.0,7350000,"{'type': 'Point', 'coordinates': [-0.0934254, 51.5141566]}",51.5141566,-0.0934254,London,GBR
+12,tech,2007,eRepublik,30.0,2750000,"{'type': 'Point', 'coordinates': [-3.6952896, 40.43094]}",40.43094,-3.6952896,Madrid,ESP
+13,tech,2007,Omgili,30.0,600,"{'type': 'Point', 'coordinates': [34.7913031, 32.0706393]}",32.0706393,34.7913031,Tel Aviv,ISR
+14,tech,2007,School of Everything,8.0,279,"{'type': 'Point', 'coordinates': [-0.053981, 51.528817]}",51.528817,-0.053981,London,GBR
+15,tech,2007,Strutta,12.0,1600000,"{'type': 'Point', 'coordinates': [-123.1078045, 49.2821075]}",49.2821075,-123.1078045,Vancouver,CAN
+16,tech,2007,Whois,6.0,600,"{'type': 'Point', 'coordinates': [103.875336, 1.327062]}",1.327062,103.875336,Singapore,SGP
+17,tech,2007,Soocial,4.0,267,"{'type': 'Point', 'coordinates': [4.92319, 52.3768747]}",52.3768747,4.92319,Amsterdam,NLD
+18,tech,2008,Jinni,35.0,8100000,"{'type': 'Point', 'coordinates': [34.7595, 32.0554]}",32.0554,34.7595,Tel Aviv,ISR
+19,tech,2007,Memopal,12.0,1000000,"{'type': 'Point', 'coordinates': [12.461425, 41.823172]}",41.823172,12.461425,Rome,ITA
+20,sports,2008,Smarkets,15.0,2710000,"{'type': 'Point', 'coordinates': [-0.130772, 51.550757]}",51.550757,-0.130772,London,GBR
+21,social,2007,Sonico,84.0,6000000,"{'type': 'Point', 'coordinates': [-58.417309, -34.611781]}",-34.611781,-58.417309,Buenos Aires,ARG
+22,tech,2007,GigPark,4.0,200,"{'type': 'Point', 'coordinates': [-79.446717, 43.666678]}",43.666678,-79.446717,Toronto,CAN
+23,enterprise,2008,ScribbleLive,45.0,12000000,"{'type': 'Point', 'coordinates': [-79.406775, 43.64308]}",43.64308,-79.406775,Toronto,CAN
+24,tech,2008,Socruise,5.0,222,"{'type': 'Point', 'coordinates': [0.257568, 51.125693]}",51.125693,0.257568,Kent,GBR
+25,tech,2007,Oxynade,10.0,1100000,"{'type': 'Point', 'coordinates': [3.71105, 51.050314]}",51.050314,3.71105,Ghent,BEL
+26,tech,2008,Orbster,8.0,445,"{'type': 'Point', 'coordinates': [8.4102781, 49.0092558]}",49.0092558,8.4102781,Bangalore,IND
+27,tech,2007,SquareClock,10.0,1250000,"{'type': 'Point', 'coordinates': [2.2860418, 48.9064804]}",48.9064804,2.2860418,Asnieres sur seine,FRA
+28,tech,2007,hiogi,5.0,89,"{'type': 'Point', 'coordinates': [13.397398, 52.529762]}",52.529762,13.397398,Berlin,DEU
+29,tech,2007,ScreenScape Networks,29.0,4000000,"{'type': 'Point', 'coordinates': [-63.127845, 46.234315]}",46.234315,-63.127845,Charlottetown,CAN
+30,tech,2007,Dreamsoft Technologies,6.0,100,"{'type': 'Point', 'coordinates': [-2.15871, 53.616352]}",53.616352,-2.15871,,GBR
+31,tech,2007,Bambuser,12.0,2500000,"{'type': 'Point', 'coordinates': [18.064488, 59.332788]}",59.332788,18.064488,Stockholm,SWE
+32,tech,2007,GeoMe,6.0,267,"{'type': 'Point', 'coordinates': [2.168518, 41.387411]}",41.387411,2.168518,Barcelona,ESP
+33,tech,2007,Lat49,24.0,3800000,"{'type': 'Point', 'coordinates': [-123.120893, 49.275332]}",49.275332,-123.120893,"Vancouver, BC",CAN
+34,tech,2007,Aloqa,14.0,1500000,"{'type': 'Point', 'coordinates': [11.5677288, 48.1281209]}",48.1281209,11.5677288,Munich,DEU
+35,education,2007,Myngle,17.0,2100000,"{'type': 'Point', 'coordinates': [4.912106, 52.354525]}",52.354525,4.912106,Amsterdam,NLD
+36,tech,2008,plista,100.0,3800000,"{'type': 'Point', 'coordinates': [13.4124563, 52.5283614]}",52.5283614,13.4124563,Berlin,DEU
+37,tech,2008,TweetDeck,5.0,3800000,"{'type': 'Point', 'coordinates': [-0.1262362, 51.5001524]}",51.5001524,-0.1262362,London,GBR
+38,public_relations,2007,HomeSpace,7.0,40,"{'type': 'Point', 'coordinates': [103.779503, 1.292513]}",1.292513,103.779503,Singapore,SGP
+39,tech,2008,Wahanda,50.0,7000000,"{'type': 'Point', 'coordinates': [1.996567, 41.792265]}",41.792265,1.996567,London,GBR
+40,tech,2007,AdScale,40.0,6150000,"{'type': 'Point', 'coordinates': [11.5893956, 48.1654212]}",48.1654212,11.5893956,Munich,DEU
+41,tech,2007,Videoplaza,70.0,15900000,"{'type': 'Point', 'coordinates': [-0.1020894, 51.5212481]}",51.5212481,-0.1020894,London,GBR
+42,tech,2007,Snagsta,4.0,83,"{'type': 'Point', 'coordinates': [-0.1400366, 51.4761694]}",51.4761694,-0.1400366,London,GBR
+43,tech,2008,IBTgames,11.0,25,"{'type': 'Point', 'coordinates': [90.401432, 23.797333]}",23.797333,90.401432,Dhaka,BGD
+44,tech,2009,Prezi,110.0,14300000,"{'type': 'Point', 'coordinates': [19.059078, 47.490346]}",47.490346,19.059078,Budapest,HUN
+45,tech,2007,LOG607,6.0,600,"{'type': 'Point', 'coordinates': [12.436354, 45.564209]}",45.564209,12.436354,Roncade TV,ITA
+46,enterprise,2008,tagga,14.0,448,"{'type': 'Point', 'coordinates': [-123.095249, 49.284889]}",49.284889,-123.095249,Vancouver,CAN
+47,tech,2009,CompareAway,5.0,399,"{'type': 'Point', 'coordinates': [-1.574948, 54.703145]}",54.703145,-1.574948,Durham,GBR
+48,travel,2009,GetYourGuide,75.0,16000000,"{'type': 'Point', 'coordinates': [8.5082891, 47.3912899]}",47.3912899,8.5082891,Zurich,CHE
+49,travel,2011,travelmob,4.0,1000000,"{'type': 'Point', 'coordinates': [-157.78907, 21.303049]}",21.303049,-157.78907,Singapore,SGP
+50,tech,2009,Burt,30.0,3500000,"{'type': 'Point', 'coordinates': [18.036587, 59.337864]}",59.337864,18.036587,Gothenburg,SWE
+51,tech,2008,Tweegee,22.0,3000000,"{'type': 'Point', 'coordinates': [34.8003705, 32.037363]}",32.037363,34.8003705,Ramat Gan,ISR
+52,enterprise,2007,Cignis,3.0,20,"{'type': 'Point', 'coordinates': [10.47651, 59.852826]}",59.852826,10.47651,Hvalstad,NOR
+53,enterprise,2007,3scale,15.0,5000000,"{'type': 'Point', 'coordinates': [2.192023, 41.406335]}",41.406335,2.192023,Barcelona,ESP
+54,travel,2011,travelmob,4.0,1000000,"{'type': 'Point', 'coordinates': [-157.78907, 21.303049]}",21.303049,-157.78907,Singapore,SGP
+55,tech,2009,Burt,30.0,3500000,"{'type': 'Point', 'coordinates': [18.036587, 59.337864]}",59.337864,18.036587,Gothenburg,SWE
+56,tech,2008,Tweegee,22.0,3000000,"{'type': 'Point', 'coordinates': [34.8003705, 32.037363]}",32.037363,34.8003705,Ramat Gan,ISR
+57,enterprise,2007,Cignis,3.0,20,"{'type': 'Point', 'coordinates': [10.47651, 59.852826]}",59.852826,10.47651,Hvalstad,NOR
+58,enterprise,2007,3scale,15.0,5000000,"{'type': 'Point', 'coordinates': [2.192023, 41.406335]}",41.406335,2.192023,Barcelona,ESP
+59,music,2007,Radionomy,12.0,6000000,"{'type': 'Point', 'coordinates': [4.33511, 50.831147]}",50.831147,4.33511,Brussels,BEL
+60,tech,2008,iKlax Media,7.0,445,"{'type': 'Point', 'coordinates': [-1.5555799, 43.4477272]}",43.4477272,-1.5555799,BIDART,FRA
+61,social,2008,ResearchGate,74.0,35000000,"{'type': 'Point', 'coordinates': [13.3842605, 52.5308516]}",52.5308516,13.3842605,Berlin,DEU
+62,tech,2008,Wishabi,50.0,16000000,"{'type': 'Point', 'coordinates': [-79.567221, 43.644678]}",43.644678,-79.567221,Toronto,CAN
+63,social,2007,SocialGO,12.0,3000000,"{'type': 'Point', 'coordinates': [-0.0925694, 51.5027669]}",51.5027669,-0.0925694,London,GBR
+64,real_estate,2007,Zoopla,50.0,10200000,"{'type': 'Point', 'coordinates': [-0.1010801, 51.5037471]}",51.5037471,-0.1010801,London,GBR
+65,tech,2007,Trustpilot,100.0,18400000,"{'type': 'Point', 'coordinates': [12.5605372, 55.6739617]}",55.6739617,12.5605372,Copenhagen V,DNK
+66,tech,2008,Movirtu,50.0,5500000,"{'type': 'Point', 'coordinates': [-0.1815999, 51.5499708]}",51.5499708,-0.1815999,London,GBR
+67,public_relations,2007,SmartCrowds,3.0,110,"{'type': 'Point', 'coordinates': [78.2221144, 12.5153051]}",12.5153051,78.2221144,Bangalore,IND
+68,tech,2007,VODECLIC,20.0,570,"{'type': 'Point', 'coordinates': [2.319287, 48.891986]}",48.891986,2.319287,Levallois-Perret,FRA
+69,enterprise,2007,DreamFace Interactive,10.0,150,"{'type': 'Point', 'coordinates': [2.1907388, 48.7004097]}",48.7004097,2.1907388,Orsay,FRA
+70,social,2009,HyperWeek,5.0,1310000,"{'type': 'Point', 'coordinates': [6.1503245, 46.2121463]}",46.2121463,6.1503245,Geneva,CHE
+71,tech,2007,ALENTY,17.0,356,"{'type': 'Point', 'coordinates': [2.369933, 48.8696389]}",48.8696389,2.369933,Paris,FRA
+72,tech,2007,ShedWorx,5.0,100,"{'type': 'Point', 'coordinates': [115.813457, -31.97302]}",-31.97302,115.813457,"Nedlands, WA",AUS
+73,tech,2007,VIDDIX,5.0,89,"{'type': 'Point', 'coordinates': [5.1682449, 52.0848526]}",52.0848526,5.1682449,Utrecht,NLD
+74,enterprise,2008,MessageBunker,7.0,79,"{'type': 'Point', 'coordinates': [-0.660258, 51.793944]}",51.793944,-0.660258,Hertfordshire,GBR
+75,tech,2007,Adjug,47.0,6500000,"{'type': 'Point', 'coordinates': [-0.1506897, 51.5441671]}",51.5441671,-0.1506897,London,GBR
+76,tech,2007,PrestaShop,80.0,3900000,"{'type': 'Point', 'coordinates': [2.3593849, 48.8687217]}",48.8687217,2.3593849,Levallois-Perret,FRA
+77,tech,2010,Tengaged,1.0,15,"{'type': 'Point', 'coordinates': [2.1634249, 41.4241228]}",41.4241228,2.1634249,Barcelona,ESP
+78,tech,2007,EcoVadis,50.0,1400000,"{'type': 'Point', 'coordinates': [2.3216223, 48.8545738]}",48.8545738,2.3216223,PARIS,FRA
+79,tech,2007,PushCall,4.0,150,"{'type': 'Point', 'coordinates': [4.3550666, 52.027964]}",52.027964,4.3550666,Rijswijk,NLD
+80,social,2008,Busuu,25.0,4700000,"{'type': 'Point', 'coordinates': [-3.6830316, 40.4225487]}",40.4225487,-3.6830316,Madrid,ESP
+81,tech,2007,Green Apple Media,50.0,132000000,"{'type': 'Point', 'coordinates': [-6.2689465, 53.3438298]}",53.3438298,-6.2689465,Dublin,IRL
+82,tech,2007,mydeco,35.0,12500000,"{'type': 'Point', 'coordinates': [-0.468617, 51.518101]}",51.518101,-0.468617,London,GBR
+83,tech,2007,Sysomos,50.0,250,"{'type': 'Point', 'coordinates': [-79.3979364, 43.65508]}",43.65508,-79.3979364,Toronto,CAN
+84,tech,2007,CreationFlow,4.0,150,"{'type': 'Point', 'coordinates': [-58.4339539, -34.6028583]}",-34.6028583,-58.4339539,Ciudad de Buenos Aires,ARG
+85,enterprise,2007,Quick TV,6.0,2890000,"{'type': 'Point', 'coordinates': [-1.6194034, 54.971065]}",54.971065,-1.6194034,Newcastle Upon Tyne,GBR
+86,fashion,2008,Geelbe,13.0,4700000,"{'type': 'Point', 'coordinates': [-74.0758333, 4.5980556]}",4.5980556,-74.0758333,Bogotá,COL
+87,tech,2008,Zopim,40.0,392,"{'type': 'Point', 'coordinates': [103.7807403, 1.290801]}",1.290801,103.7807403,Singapore,SGP
+88,tech,2009,Shutl,10.0,7660000,"{'type': 'Point', 'coordinates': [-0.1020265, 51.5196135]}",51.5196135,-0.1020265,London,GBR
+89,real_estate,2007,CommonFloor,12.0,7500000,"{'type': 'Point', 'coordinates': [77.6378619, 12.9593805]}",12.9593805,77.6378619,"Bangalore, Karnataka",IND
+90,travel,2007,Must See India,3.0,5000000,"{'type': 'Point', 'coordinates': [77.600339, 12.9084701]}",12.9084701,77.600339,Bangalore,IND
+91,tech,2007,Fortumo,45.0,10000000,"{'type': 'Point', 'coordinates': [26.7212208, 58.3754107]}",58.3754107,26.7212208,Tartu,EST
+92,tech,2007,Mashup Arts,6.0,1580000,"{'type': 'Point', 'coordinates': [-79.3777473, 43.648786]}",43.648786,-79.3777473,Halifax,CAN
+93,tech,2008,studdex,10.0,160,"{'type': 'Point', 'coordinates': [7.3554365, 51.4523335]}",51.4523335,7.3554365,Berlin,DEU
+94,finance,2008,Comunitae,6.0,3500000,"{'type': 'Point', 'coordinates': [-3.7033403, 40.4905109]}",40.4905109,-3.7033403,Madrid,ESP
+95,tech,2007,ScoreGrid,10.0,700,"{'type': 'Point', 'coordinates': [28.0354352, -26.1470966]}",-26.1470966,28.0354352,Johannesburg,ZAF
+96,tech,2008,Dodreams,6.0,668,"{'type': 'Point', 'coordinates': [24.9438568, 60.1659819]}",60.1659819,24.9438568,,FIN
+97,public_relations,2007,Anygma,20.0,1600000,"{'type': 'Point', 'coordinates': [4.3904302, 51.2057495]}",51.2057495,4.3904302,Antwerpen,BEL
+98,social,2008,Mendeley,27.0,2130000,"{'type': 'Point', 'coordinates': [-0.1046546, 51.5224267]}",51.5224267,-0.1046546,London,GBR
+99,tech,2008,SocialCom,5.0,181,"{'type': 'Point', 'coordinates': [13.3740493, 52.5375697]}",52.5375697,13.3740493,Munich,DEU
+100,tech,2009,Cognitive Match,40.0,10200000,"{'type': 'Point', 'coordinates': [-0.0936688, 51.5119418]}",51.5119418,-0.0936688,London,GBR
+101,enterprise,2008,TheOfficialBoard,12.0,150,"{'type': 'Point', 'coordinates': [2.215097, 48.84176]}",48.84176,2.215097,Saint-Cloud,FRA
+102,tech,2008,IGLOO Software,50.0,9000000,"{'type': 'Point', 'coordinates': [-80.487328, 43.4496954]}",43.4496954,-80.487328,Kitchener,CAN
+103,tech,2007,iPharro Media,17.0,5180000,"{'type': 'Point', 'coordinates': [8.6605881, 49.8740096]}",49.8740096,8.6605881,Darmstadt,DEU
+104,tech,2007,GoHome,19.0,757,"{'type': 'Point', 'coordinates': [15.8012365, 45.816128]}",45.816128,15.8012365,Zagreb,HRV
+105,other,2009,Internet Marketing Academy Australia,8.0,100,"{'type': 'Point', 'coordinates': [144.976425, -37.839941]}",-37.839941,144.976425,Melbourne,AUS
+106,tech,2008,userADgents,15.0,500,"{'type': 'Point', 'coordinates': [2.334266, 48.8775197]}",48.8775197,2.334266,Paris,FRA
+107,tech,2008,ividence,30.0,9700000,"{'type': 'Point', 'coordinates': [2.3347594, 48.8682244]}",48.8682244,2.3347594,Paris,FRA
+108,tech,2008,tolingo,40.0,600,"{'type': 'Point', 'coordinates': [9.9255806, 53.5617341]}",53.5617341,9.9255806,Hamburg,DEU
+109,tech,2008,Arimaz,5.0,400,"{'type': 'Point', 'coordinates': [6.5877024, 46.5389248]}",46.5389248,6.5877024,Renens,CHE
+110,tech,2009,Gate 53|10 Technologies,4.0,125,"{'type': 'Point', 'coordinates': [10.0184565, 53.5736401]}",53.5736401,10.0184565,Hamburg,DEU
+111,music,2008,Musicmetric,15.0,3400000,"{'type': 'Point', 'coordinates': [-0.0856982, 51.5253765]}",51.5253765,-0.0856982,London,GBR
+112,tech,2007,HealthEngine,12.0,10400000,"{'type': 'Point', 'coordinates': [115.89084, -31.97822]}",-31.97822,115.89084,Perth,AUS
+113,social,2008,HootSuite,370.0,190000000,"{'type': 'Point', 'coordinates': [-123.0952381, 49.2851733]}",49.2851733,-123.0952381,Vancouver,CAN
+114,tech,2009,Brandsclub,140.0,17000000,"{'type': 'Point', 'coordinates': [-46.6388182, -23.5489433]}",-23.5489433,-46.6388182,Sao Paulo,BRA
+115,tech,2008,Imagga,6.0,310,"{'type': 'Point', 'coordinates': [23.316708, 42.6866911]}",42.6866911,23.316708,Sofia,BGR
+116,tech,2008,Joobili,2.0,80,"{'type': 'Point', 'coordinates': [19.0284923, 47.4953663]}",47.4953663,19.0284923,Budapest,HUN
+117,tech,2008,WEEZEVENT,20.0,1100000,"{'type': 'Point', 'coordinates': [2.4476331, 48.8952712]}",48.8952712,2.4476331,Paris,FRA
+118,tech,2007,Teachable,5.0,63,"{'type': 'Point', 'coordinates': [-1.0912028, 51.2057651]}",51.2057651,-1.0912028,Basingstoke,GBR
+119,tech,2008,Fresh !,9.0,100,"{'type': 'Point', 'coordinates': [2.2430452, 48.8424529]}",48.8424529,2.2430452,Boulogne,FRA
+120,tech,2009,1calendar,8.0,40,"{'type': 'Point', 'coordinates': [12.5751278, 55.6770321]}",55.6770321,12.5751278,Copenhagen,DNK
+121,tech,2009,DP7 Digital,6.0,100,"{'type': 'Point', 'coordinates': [-46.6773686, -23.5815208]}",-23.5815208,-46.6773686,Sao Paulo,BRA
+122,news,2007,Rue89,20.0,1840000,"{'type': 'Point', 'coordinates': [2.3935987, 48.8711089]}",48.8711089,2.3935987,,FRA
+123,tech,2007,iContainers,15.0,133,"{'type': 'Point', 'coordinates': [2.1752709, 41.3763043]}",41.3763043,2.1752709,Barcelona,ESP
+124,travel,2007,Hopper,17.0,22000000,"{'type': 'Point', 'coordinates': [-73.5550157, 45.5124334]}",45.5124334,-73.5550157,Montreal,CAN
+125,tech,2007,VISup,8.0,31,"{'type': 'Point', 'coordinates': [9.2114266, 45.4650967]}",45.4650967,9.2114266,MILANO,ITA
+126,tech,2008,YOOSE,8.0,22,"{'type': 'Point', 'coordinates': [13.3892132, 52.5145532]}",52.5145532,13.3892132,Berlin,DEU
+127,tech,2008,Kwaga,10.0,2150000,"{'type': 'Point', 'coordinates': [2.3389864, 48.8318497]}",48.8318497,2.3389864,Paris,FRA
+128,fashion,2010,Chicisimo,4.0,800,"{'type': 'Point', 'coordinates': [-2.9308322, 43.264499]}",43.264499,-2.9308322,Bilbao,ESP
+129,tech,2009,ipadio,15.0,1600000,"{'type': 'Point', 'coordinates': [0.0118608, 51.8205815]}",51.8205815,0.0118608,London,GBR
+130,tech,2007,ExtraFootie,8.0,267,"{'type': 'Point', 'coordinates': [4.348295, 50.8263475]}",50.8263475,4.348295,Brussels,BEL
+131,tech,2009,Ykone,10.0,1500000,"{'type': 'Point', 'coordinates': [2.3509871, 48.8566667]}",48.8566667,2.3509871,Paris,FRA
+132,tech,2007,Moviepilot,43.0,7000000,"{'type': 'Point', 'coordinates': [13.398504, 52.4947266]}",52.4947266,13.398504,Berlin,DEU
+133,tech,2008,BetKlub,3.0,81,"{'type': 'Point', 'coordinates': [2.3639174, 48.8787606]}",48.8787606,2.3639174,Paris,FRA
+134,tech,2008,Kimengi,5.0,222,"{'type': 'Point', 'coordinates': [4.8852747, 52.3735592]}",52.3735592,4.8852747,Amsterdam,NLD
+135,enterprise,2008,oneDrum,5.0,1000000,"{'type': 'Point', 'coordinates': [-0.1262362, 51.5001524]}",51.5001524,-0.1262362,London,GBR
+136,tech,2009,Layar,32.0,13400000,"{'type': 'Point', 'coordinates': [4.8928722, 52.3657578]}",52.3657578,4.8928722,Amsterdam,NLD
+137,tech,2007,Tagmore Solutions,15.0,222,"{'type': 'Point', 'coordinates': [-3.6883074, 40.4226918]}",40.4226918,-3.6883074,Madrid,ESP
+138,tech,2009,Lipperhey,6.0,178,"{'type': 'Point', 'coordinates': [4.9345824, 52.3655578]}",52.3655578,4.9345824,Amsterdam,NLD
+139,tech,2008,Mobiles Republic,25.0,9000000,"{'type': 'Point', 'coordinates': [-0.5754294, 44.8743952]}",44.8743952,-0.5754294,Bordeaux Cedex,FRA
+140,tech,2008,ubigrate,12.0,445,"{'type': 'Point', 'coordinates': [13.7759644, 51.0343624]}",51.0343624,13.7759644,Dresden,DEU
+141,tech,2008,Struq,50.0,8500000,"{'type': 'Point', 'coordinates': [-0.1366861, 51.5152023]}",51.5152023,-0.1366861,London,GBR
+142,enterprise,2007,Content Syndicate: Words on Demand,15.0,1500000,"{'type': 'Point', 'coordinates': [55.2373803, 25.1910055]}",25.1910055,55.2373803,Dubai,ARE
+143,tech,2009,Teambox,35.0,6750000,"{'type': 'Point', 'coordinates': [2.1920231, 41.4063346]}",41.4063346,2.1920231,Barcelona,ESP
+144,tech,2008,Testplant,50.0,2560000,"{'type': 'Point', 'coordinates': [-0.1037742, 51.517356]}",51.517356,-0.1037742,London,GBR
+145,social,2008,FundRazr,6.0,426,"{'type': 'Point', 'coordinates': [-123.1092622, 49.2843936]}",49.2843936,-123.1092622,Vancouver,CAN
+146,tech,2009,Tiny Speck,45.0,17200000,"{'type': 'Point', 'coordinates': [-123.109217, 49.2824551]}",49.2824551,-123.109217,Vancouver,CAN
+147,tech,2009,Getyoo,10.0,1130000,"{'type': 'Point', 'coordinates': [4.3464721, 50.83997]}",50.83997,4.3464721,Brussels,BEL
