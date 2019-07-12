@@ -23,8 +23,8 @@ I've cleaned the database with all requeriments except the total money raised. B
 
 ### Geoqueries and Google API
 
-Using pymongo i've found the companies nearest to others. After that, i've perform some calculations to determine the money by office, the employees by office and a simple ranking by money, employee and the number of offices around.
+Using pymongo I've found the companies nearest to others. After that, I've performed some calculations to determine the money by office, the employees by office and a simple ranking by money, employee and the number of offices around. After sorting by ranking I've found that the best location is Vancouver in Canada. In order to 
 
 ### Results
 
-After all the process, the best location to this next company is
+After all the process, the best location to the company is East Hastings Street(Vancouver, Canada). There are two companies with an important total money raise, and a number of employees according to our company. In the radius it is located Hootsuite, one of the most important companies in technology field. I've found too 3 schools close to that street, so it seems to be a good location.
