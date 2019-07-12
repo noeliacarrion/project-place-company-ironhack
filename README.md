@@ -7,13 +7,13 @@ The repository contains the following files:
   
 ### Requeriments
 
-- First of all, it's important to stay near to other tech new companies, so i've categorized the type of each company.
+- First of all, it's important to stay near to other tech new companies, so I've categorized the type of each company.
 
-- My first decition was to select companies which were founded beetween 2009 and 2019 but the database contained values to 2013, so if've modified the requirements and select companies from 2007.
+- My first decition was to select companies which were founded beetween 2009 and 2019 but the database contained values to 2013, so I've modified the requirements and select companies from 2007.
 
 - I was looking for locationes where the total money raised was at least 1 million. 
 
-- To expand the gaming industry i've decided to find locations out USA and see what kind of companies there are in other countries.
+- To expand the gaming industry I've decided to find locations out USA and see what kind of companies there are in other countries.
 
 - It's important too the satisfaction's employees and the 30% have at least 1 childes. I've used Google API to find close to the radius schools or kindergarten
 
@@ -23,7 +23,7 @@ I've cleaned the database with all requeriments except the total money raised. B
 
 ### Geoqueries and Google API
 
-Using pymongo I've found the companies nearest to others. After that, I've performed some calculations to determine the money by office, the employees by office and a simple ranking by money, employee and the number of offices around. After sorting by ranking I've found that the best location is Vancouver in Canada. In order to 
+Using pymongo I've found the companies nearest to others. After that, I've performed some calculations to determine the money by office, the employees by office and a simple ranking by money, employee and the number of offices around. After sorting by ranking I've found that the best location is Vancouver in Canada but I wanted to keep in mind other requeriments.
 
 ### Results
 
