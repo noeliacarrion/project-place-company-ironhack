@@ -15,7 +15,7 @@ The repository contains the following files:
 
 - To expand the gaming industry I've decided to find locations out USA and see what kind of companies there are in other countries.
 
-- It's important too the satisfaction's employees and the 30% have at least 1 childes. I've used Google API to find close to the radius schools or kindergarten
+- It's important the satisfaction's employees(30% of them have at least 1 child) as well as executives. For that reason, I've used Google API to find close to the radius schools or kindergarten and Starbucks.
 
 ### Cleaning process
 
@@ -23,7 +23,7 @@ I've cleaned the database with all requeriments except the total money raised. B
 
 ### Geoqueries and Google API
 
-Using pymongo I've found the companies nearest to others. After that, I've performed some calculations to determine the money by office, the employees by office and a simple ranking by money, employee and the number of offices around. After sorting by ranking I've found that the best location is Vancouver in Canada but I wanted to keep in mind other requeriments.
+Using pymongo I've found the companies nearest to others. After that, I've performed some calculations to determine the money by office, the employees by office and a simple ranking by money, employee and the number of offices around. After sorting by ranking I've found that the best location is Vancouver in Canada but I wanted to keep in mind other requeriments like schools and Starbucks. 
 
 ### Results
 
